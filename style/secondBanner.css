@@ -1,0 +1,27 @@
+.justdoit {
+    background: url(../img/banner2.png) center/cover;
+    height: 558px;
+    margin-top: 40px;
+}
+
+.justdoit__desc-text {
+    font-family: 'RB', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    color: #fff;  
+}
+
+.justdoit__desc{
+    margin: 0 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 156px;
+    gap: 40px;
+    max-width: 400px;
+    max-height: 154px;
+    height: 100%;
+    width: 200px; 
+    align-items: center;
+    background: rgb(186, 186, 186, 0.5)
+}
